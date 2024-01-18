@@ -1,0 +1,6 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguages": ["uk", "fr", "it", "es", "de"],
+  "sourceFile": "input/messages.xlf",
+  "targetFileDirectory": "output"
+}

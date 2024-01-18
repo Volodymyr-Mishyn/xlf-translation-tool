@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="5319928736812616614" datatype="html">
+        <source>Ukraine is under russian attack</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_translate/app-translation.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3071317530320332117" datatype="html">
+        <source>Support Ukraine in a war against russian occupying forces</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_translate/app-translation.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
