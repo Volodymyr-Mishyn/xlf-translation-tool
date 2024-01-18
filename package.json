@@ -1,5 +1,5 @@
 {
-  "name": "xlf-translate-tool",
+  "name": "xlf-translation-tool",
   "version": "1.0.0",
   "description": "Help utils",
   "main": "./src/index.ts",
