@@ -5,6 +5,7 @@
   "main": "./src/index.ts",
   "scripts": {
     "start": "ts-node -P ./tsconfig.json ./src/index.ts",
+    "test": "npx jest",
     "dev:reload": "nodemon"
   },
   "author": "Volodymyr Mishyn",
